@@ -1,3 +1,4 @@
 # network-sniffer
-
-sniffer 2  is for only TCP 
+Packet sniffer in python for Linux:
+sniffer 2 - Sniffs only incoming TCP packet
+sniffer 3 - Sniffs all incoming and outgoing packets :)
